@@ -1,7 +1,3 @@
-khasjjasfdhasfdhasdhasfd
-asdfdasffdasfasdfasdf
-asdfdasffdasfasdfasdfd
-fgfsdgsfdgsfdgsfdgsdfg
 27/04/2023
 
 git add --all
